@@ -1,7 +1,10 @@
+REQUIRES PG_DUMP.EXE BINARY TO WORK
+
 Usage:
-1. Place script somewhere, specify database credentials and backups folder path
-2. Create Task Scheduler Job with my XML template, specify time and schedule
-3. Additionally specify telegram bot credentials and chatId to send alerts
+1. Download pg_dump.exe or install pgAdmin 4
+2. Place script somewhere, specify database credentials and backups folder path
+3. Create Task Scheduler Job with my XML template, specify time and schedule
+4. Additionally specify telegram bot credentials and chatId to send alerts
 
 
 
